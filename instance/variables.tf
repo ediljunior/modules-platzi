@@ -17,5 +17,5 @@ variable "ingress_rules" {
 }
 
 variable "egress_rules" {
-  
+  default     = 0
 }
